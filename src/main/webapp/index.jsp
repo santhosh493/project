@@ -6,7 +6,7 @@
 	</style>
 <title>FlyAway</title>
 <body>
-	<center><h2>Atul Magar</h2></center>
+	<center><h2>K SANTHOSH KUMAR</h2></center>
 	<center><h1 style="font-size:40px;">Welcome to FlyAway</h1></center>
 	<center><h2>All Your Flights In One Place</h2></center><br>
 	<center><a href="adminlogin.html">Admin Login</a>||
